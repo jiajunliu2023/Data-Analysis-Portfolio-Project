@@ -138,31 +138,103 @@ To analyze customer demographics and behavioral patterns to understand what fact
 
 ## 📈 2. Key Insights
 ### ✅ Bike Purchase Trend
-- Higher income customers are more likely to purchase bikes.
-- Younger to middle-aged adults (30–50) show higher bike purchases.
-- Professionals and skilled manual workers are more likely to buy bikes.
-
+- Customers with higher incomes are more likely to purchase bikes.
+- Middle-aged adults (30–50) show higher bike purchases.
+- Customers are more likely to purchase the bikes for short-distance commutes.
+  
 ### 🔍 Demographic Breakdown
 - Gender: Males are slightly more likely to buy bikes than females.
 - Marital Status: Married individuals show a higher tendency to purchase bikes.
-- Children: Fewer children correlates with higher likelihood of bike purchase.
 
 ### 🌍 Regional Influence
 Customers from certain regions (e.g., Pacific, Europe) show differing purchasing behavior.
 
-### 💡 3. Recommendation
-- Target marketing campaigns toward high-income professionals aged 30–50.
-- Create family or commuting packages for married individuals with 0–2 children.
-- Expand operations in regions with higher conversion rates.
+## 💡 3. Recommendation
+### Targeted Marketing:
+- Focus premium bike offerings on male commuters with higher disposable income
+- Develop value-oriented options for female non-commuters
+
+### Distance-Based Campaigns:
+- Prioritize marketing to potential customers within 0-1 mile commuting range
+- Develop specific messaging for 5-10 mile segment showing interest without commuting
+
+### Age-Based Product Development:
+- Focus product development on middle-aged consumer needs
+- Investigate why adolescent and older customers show sharp dropoff in bike commuting
 
 ### 📂 Dashboard Visualization Summary
-- Pie chart: Purchase rate by occupation
-- Bar chart: Income vs. Purchase rate
-- Heatmap: Region and Commute Distance correlation
+- Bar chart: Income vs. Purchase rate based on gender
 - Line chart: Age vs. Purchase probability
+- Line chart: Commute Distance vs. Purchase probability
 
-## Airbnb Housing Price Analysis (Tableau)
+# Airbnb Housing Price Analysis (Tableau)
 <img width="1415" alt="Screenshot 2025-05-12 at 3 06 21 PM" src="https://github.com/user-attachments/assets/8d21919c-8226-4d90-9f18-b33778431700" />
+
+The real estate dashboard provides insights into property pricing, regional distribution, and temporal trends.
+
+## Key Findings 
+
+- Bedroom Scaling: Clear price progression with additional bedrooms, with most significant jumps occurring between 4-5 and 5-6 bedrooms
+- Inventory Distribution: 1-bedroom properties dominate the market (70.1% of listings)
+- Geographic Variance: Significant price differences between zip codes, with 98109 showing the highest average prices
+- Yearly Performance: Steady revenue growth throughout 2016, with notable increase toward year-end
+
+## Pricing Analysis
+
+### 1. Bedroom Pricing Structure:
+
+    - 1 Bedroom: $96.2 (baseline)
+    - 2 Bedrooms: $175.4 (+82.3%)
+    - 3 Bedrooms: $249.7 (+42.4%)
+    - 4 Bedrooms: $315.4 (+26.3%)
+    - 5 Bedrooms: $450.0 (+42.7%)
+    - 6 Bedrooms: $584.8 (+30.0%)
+
+
+### 2. Inventory Distribution:
+    - 1 Bedroom: 1,811 listings (70.1%)
+    - 2 Bedrooms: 483 listings (18.7%)
+    - 3 Bedrooms: 206 listings (8.0%)
+    - 4 Bedrooms: 55 listings (2.1%)
+    - 5 Bedrooms: 20 listings (0.8%)
+    - 6 Bedrooms: 5 listings (0.2%)
+
+## Geographic Distribution
+
+### 1. Zip Code Analysis:
+- Highest pricing: 98109 (>$200 average)
+- Lowest pricing: 98118 (~$60-70 range)
+- Prominent mid-range markets: 98103 ($122.8), 98115 ($121.1)
+
+
+### 2. Regional Visualization:
+- Northern regions show higher pricing patterns
+- Southwestern regions show lowest pricing
+- Clear price segmentation visible in the map visualization
+
+
+
+## Temporal Trends
+
+### 2016 Revenue Performance:
+- Starting point: ~$1.25M (February)
+- Ending point: ~$2.05M (January 2017)
+- Overall growth: ~64% annual increase
+- Pattern: Rapid growth in Q1-Q2, stabilization in Q3, renewed growth in Q4
+
+## Recommended For Airbnb Business:
+
+### Inventory Optimization:
+- Consider developing more multi-bedroom properties (5-6 bedrooms) to capture premium pricing
+- Balance with high-volume 1-bedroom listings for consistent revenue
+
+### Geographic Expansion:
+- Prioritize development in northern zip codes (98109, 98103)
+- Consider investment opportunities in undervalued zip codes with growth potential
+
+### Seasonal Strategy:
+- Capitalize on year-end momentum with Q4 marketing pushes
+- Develop strategies to maintain growth during mid-year plateau periods
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/TableauProject_17470174891670/Dashboard1?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
