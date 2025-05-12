@@ -1,7 +1,6 @@
-# Project 1 Data Professional Survey Analysis (Power BI)
+# 📊 Project 1. Data Professional Survey Analysis (Power BI)
 ![Screenshot 2025-05-12 141906](https://github.com/user-attachments/assets/df6fec53-3582-424d-817e-08a09b0cb618)
 
-# 📊 Data Professional Survey Breakdown – Full Analysis Report
 
 This report provides insights from a survey conducted among 630 data professionals worldwide. The dashboard aggregates responses about demographics, job roles, salary, programming language preferences, and career experiences. The purpose is to understand trends and challenges in the data field.
 
@@ -121,7 +120,7 @@ Most survey participants are relatively young professionals, likely early in the
 - **Career Mentors**: Help beginners navigate entry barriers by providing mentorship, practical projects, and interview prep.
 
 
-# Bike Sales (Excel Dashboard with Pivot table, Pivot Chart and Slicer)
+# Project 2. Bike Sales (Excel Dashboard with Pivot table, Pivot Chart and Slicer)
 <img width="816" alt="Screenshot 2025-05-12 at 2 21 14 PM" src="https://github.com/user-attachments/assets/8abc354a-786a-4adf-abd5-5cad0b0b1a9d" />
 
 ## 🎯 Objective
@@ -167,10 +166,12 @@ Customers from certain regions (e.g., Pacific, Europe) show differing purchasing
 - Line chart: Age vs. Purchase probability
 - Line chart: Commute Distance vs. Purchase probability
 
-# Airbnb Housing Price Analysis (Tableau)
+# Project 3. Airbnb Housing Price Analysis (Tableau)
 <img width="1415" alt="Screenshot 2025-05-12 at 3 06 21 PM" src="https://github.com/user-attachments/assets/8d21919c-8226-4d90-9f18-b33778431700" />
 
-The real estate dashboard provides insights into property pricing, regional distribution, and temporal trends.
+[View Dashboard on Tableau Public](https://public.tableau.com/views/TableauProject_17470174891670/Dashboard1?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+The Airbnb dashboard provides insights into property pricing, regional distribution, and temporal trends.
 
 ## Key Findings 
 
@@ -202,14 +203,14 @@ The real estate dashboard provides insights into property pricing, regional dist
 ## Geographic Distribution
 
 ### 1. Zip Code Analysis:
-- Highest pricing: 98109 (>$200 average)
-- Lowest pricing: 98118 (~$60-70 range)
-- Prominent mid-range markets: 98103 ($122.8), 98115 ($121.1)
+- Highest pricing: 98134 (>$200 average)
+- Lowest pricing: 98125 (~$60-70 range)
+- Prominent mid-range markets: 98102 ($127.3), 98126 ($121.2)
 
 
 ### 2. Regional Visualization:
-- Northern regions show higher pricing patterns
-- Southwestern regions show lowest pricing
+- West and Central regions show higher pricing patterns
+- Northern regions show lowest pricing
 - Clear price segmentation visible in the map visualization
 
 
@@ -229,13 +230,12 @@ The real estate dashboard provides insights into property pricing, regional dist
 - Balance with high-volume 1-bedroom listings for consistent revenue
 
 ### Geographic Expansion:
-- Prioritize development in northern zip codes (98109, 98103)
+- Prioritize development in central ans western zip codes
 - Consider investment opportunities in undervalued zip codes with growth potential
 
 ### Seasonal Strategy:
 - Capitalize on year-end momentum with Q4 marketing pushes
 - Develop strategies to maintain growth during mid-year plateau periods
 
-[View Dashboard on Tableau Public](https://public.tableau.com/views/TableauProject_17470174891670/Dashboard1?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
