@@ -121,8 +121,45 @@ Most survey participants are relatively young professionals, likely early in the
 - **Career Mentors**: Help beginners navigate entry barriers by providing mentorship, practical projects, and interview prep.
 
 
-## Bike Sales (Excel Dashboard with Pivot table, Pivot Chart and Slicer)
+# Bike Sales (Excel Dashboard with Pivot table, Pivot Chart and Slicer)
 <img width="816" alt="Screenshot 2025-05-12 at 2 21 14 PM" src="https://github.com/user-attachments/assets/8abc354a-786a-4adf-abd5-5cad0b0b1a9d" />
+
+## 🎯 Objective
+To analyze customer demographics and behavioral patterns to understand what factors influence bike purchases, enabling more targeted marketing and sales strategies.
+
+## 📊 1. Dataset Overvie
+
+- Target Variable: Purchased Bike
+
+- Key Features:
+    - Demographics: Age, Gender, Marital Status, Region
+    - Socioeconomic: Income, Education, Occupation, Cars owned
+    - Lifestyle: Commute Distance, Home Ownership, Children
+
+## 📈 2. Key Insights
+### ✅ Bike Purchase Trend
+- Higher income customers are more likely to purchase bikes.
+- Younger to middle-aged adults (30–50) show higher bike purchases.
+- Professionals and skilled manual workers are more likely to buy bikes.
+
+### 🔍 Demographic Breakdown
+- Gender: Males are slightly more likely to buy bikes than females.
+- Marital Status: Married individuals show a higher tendency to purchase bikes.
+- Children: Fewer children correlates with higher likelihood of bike purchase.
+
+### 🌍 Regional Influence
+Customers from certain regions (e.g., Pacific, Europe) show differing purchasing behavior.
+
+### 💡 3. Recommendation
+- Target marketing campaigns toward high-income professionals aged 30–50.
+- Create family or commuting packages for married individuals with 0–2 children.
+- Expand operations in regions with higher conversion rates.
+
+### 📂 Dashboard Visualization Summary
+- Pie chart: Purchase rate by occupation
+- Bar chart: Income vs. Purchase rate
+- Heatmap: Region and Commute Distance correlation
+- Line chart: Age vs. Purchase probability
 
 ## Airbnb Housing Price Analysis (Tableau)
 <img width="1415" alt="Screenshot 2025-05-12 at 3 06 21 PM" src="https://github.com/user-attachments/assets/8d21919c-8226-4d90-9f18-b33778431700" />
